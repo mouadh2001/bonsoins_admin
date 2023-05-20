@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SlideBar",
-    "slug": "SlideBar",
+    "name": "bonsoins_admin",
+    "slug": "bonsoins_admin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,8 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -22,7 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mouadh_2001.SlideBar"
+      "package": "com.mouadh_2001.bonsoins_admin"
     },
     "web": {
       "favicon": "./assets/favicon.png"
